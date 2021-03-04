@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Master in Finance and Economics, CEMFI, 2021 (expected)
+* B.A in Economics, Guanghua School of Management, Peking University, 2019
+* Minor in International Politics, School of International Studies, Peking University, 2019
 
 Work experience
 ======
